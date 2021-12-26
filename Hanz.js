@@ -90,19 +90,19 @@ isCharge: "" || false
 }
 let autovn = false
 let ngetik = false
-readG = true 
-readP = true
+readG = false 
+readP = false
 publik = true
-Nogopay = 083144394823
-Nodana = 083144394823
-Noovo = 083144394823
+Nogopay = 083822759168
+Nodana = 083822759168
+Noovo = 083822759168
 owner = setting.OwnerNumber
 botname = setting.BotName
 lolkey = setting.HanzKey
 Hanzkey = setting.hanzKey
 ownername = setting.OwnerName
-asutes = 'BOT HANZ OFC'
-creator = 'ʜᴀɴᴢ々ᴏꜰᴄ' // GAK USAH DI UBAH
+asutes = 'A N D R I - BOT'
+creator = 'Andrii Street Moonshine' // GAK USAH DI UBAH
 fakeimage = fs.readFileSync("./media/thumnail.jpg")
 //━━━━━━━━━━━━━━━[ MODUL EXPORTS ]━━━━━━━━━━━━━━━━━//
 
